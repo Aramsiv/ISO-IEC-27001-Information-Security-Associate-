@@ -1,4 +1,4 @@
-# Skillfront - Information-Security-Associate-TM
+# Skillfront - ISO/IEC 27001 Information Security Associate™ 
 
 https://www.skillfront.com/Badges/36512523731608
 
